@@ -7,6 +7,6 @@ https://www.kaggle.com/datasets/msambare/fer2013
 Ứng dụng sử dụng các thư viện: Keras, OpenCV, Numpy, Matplotlib.
 
 ## Installation
-- Giải nén file data/data.zip
+- Tải dữ liệu FER-2013, giải nén và lưu trong thư mục data
 - Chạy file train.py để huấn luyện mô hình, nhận được tệp emotion_detection_model_100epochs.h5
 - Chạy file test.py sử dụng webcam nhận diện cảm xúc khuân mặt
